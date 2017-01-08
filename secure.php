@@ -3,7 +3,7 @@
 # Admin Panel Ip Security
 # Coded By 646e63
 # © SpyCod3 Group
-# 646e63(Cihan Danacı) - Antidote - Fenerove - Ne0-h4ck3r
+# 646e63 - Antidote - Fenerove - Ne0-h4ck3r
 */
 
 $my_ip = "127.0.0.1";
